@@ -1,2 +1,12 @@
+# Exclude IDE files
 .vscode/
+
+# Exclude JS files
 node_modules/
+
+# Exclude generated files
+dist/
+build/
+
+# Exclude developer specific files
+.source
